@@ -1,0 +1,7 @@
+{
+  "validateIndentation": 2,
+  "disallowMultipleLineBreaks": true,
+  "requireSemicolons": true,
+  "validateQuoteMarks": "'",
+  "esnext": true
+}
