@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Prismatik/react-music-player/issues"
   },
-  "homepage": "https://github.com/Prismatik/react-music-player"
+  "homepage": "https://github.com/Prismatik/react-music-player",
+  "dependencies": {
+    "react": "^0.13.3"
+  }
 }
