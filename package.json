@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Prismatik/react-music-player",
   "dependencies": {
+    "howler": "^1.1.26",
     "react": "^0.13.3"
   }
 }
