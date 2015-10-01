@@ -12,8 +12,8 @@ module.exports = {
         loaders: ['react-hot', 'babel-loader']
       },
       {
-        test: /\.html$/,
-        loader: 'file?name=[name].[ext]'
+        test: /\.(html|mp3)$/,
+        loader: 'file?name=[path][name].[ext]'
       }
     ]
   },
