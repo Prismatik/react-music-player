@@ -1,6 +1,8 @@
 import React from 'react';
 import Player from './components/player';
+import track from './assets/sounds/trap_queen.mp3';
 
-const player = React.createFactory(Player);
-
-React.render(player(), document.body);
+React.render(
+  <Player tracks={[track]} />,
+  document.body
+);
