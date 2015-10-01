@@ -3,5 +3,6 @@
   "disallowMultipleLineBreaks": true,
   "requireSemicolons": true,
   "validateQuoteMarks": "'",
-  "esnext": true
+  "esnext": true,
+  "esprima": "esprima-fb"
 }
